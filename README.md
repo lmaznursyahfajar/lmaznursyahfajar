@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm La Ode Muhammad Aznur Syahfajar
 Data Scientist • NLP Engineer • ML/AI Engineer
 
-Saya seorang mahasiswa sekaligus praktisi data yang fokus pada Machine Learning, Natural Language Processing, MLOps, dan Data Science untuk sektor pemerintahan. Selama magang dan berbagai proyek riset, saya membangun sistem end-to-end mulai dari scraping, preprocessing, modeling, deployment, hingga API production.
+I am a Data Science and Artificial Intelligence enthusiast with a strong focus on Machine Learning, Natural Language Processing, MLOps, and Spatial Data Analysis. I enjoy building end-to-end AI solutions—from data scraping, cleaning, and model development, to deployment, API integration, and interactive dashboards.
 
 📫 Contact
 
