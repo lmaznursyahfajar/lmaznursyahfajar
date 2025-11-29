@@ -8,9 +8,6 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=30&fontColor=fff&animation=fadeIn"/> </div>
 
-## 👨‍💻 About Me
-
-
 🛠️ Tech Stack
 <div align="center">
 🤖 Machine Learning & AI
@@ -27,9 +24,9 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 📫 Let's Connect
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_My_Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:your-email-here"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.datascienceportfol.io/lmaznursyahfajar"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_My_Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:lmaznursyahfajar@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/lmaznursyahfajar/"><img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/lmaznursyahfajar"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
