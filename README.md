@@ -3,10 +3,10 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 
 I am a Data Science and Artificial Intelligence enthusiast with a strong focus on Machine Learning, Natural Language Processing, MLOps, and Spatial Data Analysis. I enjoy building end-to-end AI solutions from data scraping, cleaning, and model development, to deployment, API integration, and interactive dashboards.
 
-📈 GitHub Stats
+📊 GitHub Stats
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical
+https://github-readme-stats.vercel.app/api?username=lmaznursyahfajar&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=lmaznursyahfajar&layout=compact&theme=radical
 
 </div>
 📫 Let's Connect!
