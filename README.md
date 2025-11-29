@@ -35,7 +35,6 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 <a href="https://github.com/lmaznursyahfajar"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
-<div align="center">
 
 💡 "Turning data into decisions, algorithms into actions"
 ⭐ From lmaznursyahfajar
