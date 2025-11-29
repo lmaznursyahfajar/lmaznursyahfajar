@@ -8,6 +8,8 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=30&fontColor=fff&animation=fadeIn"/> </div>
 
+
+
 🛠️ Tech Stack
 <div align="center">
 🤖 Machine Learning & AI
@@ -18,8 +20,14 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 📊 Data & Visualization
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> </div>
+
+
 📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lmaznursyahfajar&show_icons=true&theme=radical&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmaznursyahfajar&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaznursyahfajar&layout=compact&theme=radical&hide_border=true"/> </div>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lmaznursyahfajar&show_icons=true&theme=radical&hide_border=true"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmaznursyahfajar&theme=radical&hide_border=true"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaznursyahfajar&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
 📫 Let's Connect
 <div align="center">
