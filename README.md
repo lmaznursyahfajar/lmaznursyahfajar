@@ -37,6 +37,5 @@ Data Scientist • NLP Engineer • ML/AI Engineer
 </div>
 
 💡 "Turning data into decisions, algorithms into actions"
-⭐ From lmaznursyahfajar
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
