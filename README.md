@@ -28,15 +28,15 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmaznursyahfajar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaznursyahfajar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lmaznursyahfajar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaznursyahfajar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center">
+<div align="center">
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmaznursyahfajar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
+</div>
 ---
 
 ## 📫 Let's Connect
